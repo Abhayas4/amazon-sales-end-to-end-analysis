@@ -1,0 +1,54 @@
+{
+    "name": "Amazon Theme",
+    "dataColors": [
+        "#FF9900",
+        "#232F3E",
+        "#37475A",
+        "#B0BEC5",
+        "#90A4AE",
+        "#D5DBDB"
+    ],
+    "background": "#F2F3F4",
+    "foreground": "#232F3E",
+    "tableAccent": "#FF9900",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "title": [
+                    {
+                        "show": true,
+                        "color": {
+                            "solid": {
+                                "color": "#232F3E"
+                            }
+                        },
+                        "fontSize": 12
+                    }
+                ]
+            }
+        },
+        "card": {
+            "*": {
+                "labels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#232F3E"
+                            }
+                        },
+                        "fontSize": 22
+                    }
+                ],
+                "categoryLabels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#37475A"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
