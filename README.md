@@ -124,3 +124,32 @@ Relationships were created in Power BI for optimized performance.
 ---
 
 ## Project Structure
+
+Amazon-Sales-Analysis/
+│
+├── sql/
+│ └── data_wrangling.sql
+├── data/
+│ └── amazon_sales.csv
+├── pbix/
+│ └── Amazon_Sales.pbix
+├── theme/
+│ └── Amazon_Theme.json
+├── images/
+│ └── dashboard.png
+└── README.md
+
+---
+
+## Dashboard Preview
+(Add your dashboard screenshot here)
+
+Example:
+![Dashboard](images/dashboard.png)
+
+---
+
+## Author
+**Abhay A S**  
+Aspiring Data Analyst  
+Skills: SQL | Power BI | Excel | Data Visualization | Data Modeling
